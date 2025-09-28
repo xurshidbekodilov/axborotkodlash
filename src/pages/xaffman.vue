@@ -6,7 +6,7 @@
         v-model="inputValue"
         placeholder="So'z yoki belgilarni kiriting..."
       />
-      <button type="submit">Jadval va Daraxt yasash</button>
+      <button type="submit">Kodlash</button>
     </form>
 
     <!-- Modal -->
